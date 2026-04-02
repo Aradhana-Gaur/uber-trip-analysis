@@ -1,5 +1,3 @@
-# uber-trip-analysis
-
 # Uber Trip Analysis 🚖
 
 ## Overview
